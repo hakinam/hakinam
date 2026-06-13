@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Featured Project: PaperBrain
+## Featured Project: PaperBrain
 
 Production-grade RAG platform featuring:
 
