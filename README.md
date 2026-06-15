@@ -15,7 +15,7 @@
 Production-grade RAG platform featuring:
 
 - Multi-query Retrieval
-- Cross-Encoder Reranking
+- Cross Encoder Reranking
 - Hallucination Prevention
 - Conversational Memory
 - Source Citation
