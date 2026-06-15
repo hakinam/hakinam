@@ -16,7 +16,7 @@
 
 ### 🧠 PaperBrain — AI Document Intelligence
 Production-grade RAG platform with multi-query retrieval, reranking & hallucination prevention
-🔗 [Live Demo](https://rag-doc-q-a.streamlit.app) | [GitHub](https://github.com/hakinam/PaperBrain)
+🔗 [Live Demo](https://paper-brain.streamlit.app) | [GitHub](https://github.com/hakinam/PaperBrain)
 
 ### 📈 Klypup — AI Investment Research Platform  
 Full-stack multi-tenant platform with agentic LLM, real-time stock data & RAG
