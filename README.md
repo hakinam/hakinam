@@ -12,20 +12,15 @@
 
 ## 🚀 Featured Project: PaperBrain
 
-Production-grade RAG platform featuring:
+## 🚀 Featured Projects
 
-- Multi-query Retrieval
-- Cross Encoder Reranking
-- Hallucination Prevention
-- Conversational Memory
-- Source Citation
-- RAG Evaluation
+### 🧠 PaperBrain — AI Document Intelligence
+Production-grade RAG platform with multi-query retrieval, reranking & hallucination prevention
+🔗 [Live Demo](https://rag-doc-q-a.streamlit.app) | [GitHub](https://github.com/hakinam/PaperBrain)
 
-### Links
-
-🔗 Live Demo: https://paper-brain.streamlit.app
-
-🔗 GitHub: https://github.com/hakinam/PaperBrain
+### 📈 Klypup — AI Investment Research Platform  
+Full-stack multi-tenant platform with agentic LLM, real-time stock data & RAG
+🔗 [Live Demo](https://klypup-research-dashboard.vercel.app) | [GitHub](https://github.com/hakinam/klypup-research-dashboard)
 
 ---
 
