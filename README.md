@@ -10,8 +10,6 @@
 
 ---
 
-## 🚀 Featured Project: PaperBrain
-
 ## 🚀 Featured Projects
 
 ### 🧠 PaperBrain — AI Document Intelligence
